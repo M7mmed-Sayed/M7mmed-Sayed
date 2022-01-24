@@ -36,12 +36,13 @@ I'm a software developer who is passionate about problem solving , 2X ACPC
      
   <hr/>
 
-  <div align="center" style="">
-  <a href="https://github.com/M7mmed-Sayed">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=M7mmed-Sayed&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M7mmed-Sayed&layout=compact&langs_count=7&theme=dracula" />
-   </div>
-       
+<div align="center">
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=M7mmed-Sayed&show_icons=true&theme=radical)
+    <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M7mmed-Sayed&layout=compact&langs_count=7&theme=radical&hide_border=true" />
+</div>
+
+    
     
 
 
