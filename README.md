@@ -21,6 +21,6 @@ Some technologies I enjoy learning  it include .NET , and NodeJS .
   ### 📜 Certificates
     - [ASP.NET CORE WEB API (.NET 5) ](https://www.udemy.com/certificate/UC-9a7d9be4-61b2-45af-8ba9-31fd0ed23b8f)
     
-     - [ ICPC Africa & Arab Collegiate Programming Championship ](https://icpc.global/ICPCID/41CR1SR62R1)
+     - [ ICPC Africa & Arab Collegiate Programming Championship ](https://icpc.global/ICPCID/41CR1SR62R1C)
 
 
