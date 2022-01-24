@@ -27,14 +27,24 @@ I'm a software developer who is passionate about problem solving , 2X ACPC
 - ⚡ I’m looking to collaborate with people that want to make a change
 - 💬 Ask me about **Problem solving**
     <br/>
-  <br/>
 
   ### 📜 Certificates
-    - [ASP.NET CORE WEB API (.NET 5) ](https://www.udemy.com/certificate/UC-9a7d9be4-61b2-45af-8ba9-31fd0ed23b8f)
+    - [ASP.NET CORE WEB API (.NET 5) ](https://www.udemy.com/certificate/UC-9a7d9be4-61b2-45af-8ba9-31fd0ed23b8f).
     
-     - [ ICPC Africa & Arab Collegiate Programming Championship ](https://icpc.global/ICPCID/41CR1SR62R1C)
+     - [ ICPC Africa & Arab Collegiate Programming Championship ](https://icpc.global/ICPCID/41CR1SR62R1C).
      
-     - [ Responsive Web Design ](https://www.freecodecamp.org/certification/fcc5bfd590e-782a-4efa-933e-47e4e8d5f39e)
+     - [ Responsive Web Design ](https://www.freecodecamp.org/certification/fcc5bfd590e-782a-4efa-933e-47e4e8d5f39e).
+     
+  
+  <div align="center" style="">
+  <a href="https://github.com/M7mmed-Sayed">
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=M7mmed-Sayed&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M7mmed-Sayed&layout=compact&langs_count=7&theme=dracula" />
+   </div>
+       
+    
+
+
 
 
 
