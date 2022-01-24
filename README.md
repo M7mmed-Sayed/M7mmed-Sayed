@@ -39,7 +39,11 @@ I'm a software developer who is passionate about problem solving , 2X ACPC
 
 <div align="center">
      <a href="https://github.com/M7mmed-Sayed/github-readme-stats"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=M7mmed-Sayed&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="M7mmed-Sayed's github stats" /></a><a href="https://github.com/M7mmed-Sayed/github-readme-stats"><img  height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=M7mmed-Sayed&layout=compact&theme=radical&hide_border=true" /></a> 
-    
+    <p align="center">
+  <a href="https://github.com/M7mmed-Sayed/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sayed's streak" src="https://github-readme-streak-stats.herokuapp.com?user=M7mmed-Sayed&theme=radical&hide_border=true"/>
+  </a>
+</p>
 </div>
 
 
