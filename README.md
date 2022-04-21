@@ -25,7 +25,8 @@ I'm a software developer who is passionate about problem solving , 2X ACPC
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ I’m looking to collaborate with people that want to make a change
 - 💬 Ask me about **Problem solving**
-    <br/>
+    <br/> <br/> <br/> <br/>
+
 
   ### 📜 Certificates
     - [ASP.NET CORE WEB API (.NET 5) ](https://www.udemy.com/certificate/UC-9a7d9be4-61b2-45af-8ba9-31fd0ed23b8f).
