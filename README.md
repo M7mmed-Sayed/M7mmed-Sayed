@@ -9,10 +9,9 @@ Welcome to my profile!
 <p align="center">
 <a href="https://twitter.com/M7mmed_Sayed"><img alt="Mohamed Sayed | Twitter" width="100px" height="50px" src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/m7mmed-sayed"><img alt="Mohamed Sayed | LinkedIn" width="100px" height="50px"   src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
-     <a href="https://codeforces.com/profile/Mohamed_Sayed"><img alt="Mohamed Sayed | Codeforces"  width="100px" height="50px" src="https://camo.githubusercontent.com/192b05ae3de2f0d8d73c7b32767d36a88a4706a5eed3b3e139b6aa49da16731e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f6465666f726365732d3434356639643f7374796c653d666f722d7468652d6261646765266c6f676f3d436f6465666f72636573266c6f676f436f6c6f723d7768697465"/></a>
-    <a href="mailto:mohamedsayed1167@gmail.com"><img alt="Mohamed Sayed | GMail" width="100px" height="50px"  src="https://camo.githubusercontent.com/4a21774b9d6abd72ff3f8f2abf20cb44d95ea2c8c19b273b9df62a33266d087e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d6331343433383f7374796c653d666c6174266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465" />
-             <a href="https://www.instagram.com/M7mmed_Sayed"><img alt="Mohamed Sayed | Instagram"  width="100px" height="50px" src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
-      
+    <a href="mailto:mohamedsayed1167@gmail.com"><img alt="Mohamed Sayed | GMail" width="100px" height="50px"  src="https://img.shields.io/badge/-Gmail-white?style=flat&amp;logo=gmail&amp;logoColor=E0E0E0&color=a1242c" />
+     <a href="https://www.instagram.com/M7mmed_Sayed"><img alt="Mohamed Sayed | Instagram"  width="100px" height="50px" src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
+    <a href="https://drive.google.com/file/d/1YykYL9Suvj5KSdx6-RAx6HFiaotBQdd0/view?usp=sharing"><img src="https://img.shields.io/badge/-Resume-red?style=flat&color=a1242c&logo=adobe-acrobat-reader&logoColor=E0E0E0"  width="100px" height="50px" ></a>
   </p>
     <br/>
   <br/>
@@ -38,12 +37,15 @@ I'm a software developer who is passionate about problem solving , 2X ACPC
 
 
 <div align="center">
-     <a href="https://github.com/M7mmed-Sayed/github-readme-stats"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=M7mmed-Sayed&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="M7mmed-Sayed's github stats" /></a><a href="https://github.com/M7mmed-Sayed/github-readme-stats"><img  height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=M7mmed-Sayed&layout=compact&theme=radical&hide_border=true" /></a> 
+     <a href="https://github.com/M7mmed-Sayed/github-readme-stats"><img  height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=M7mmed-Sayed&layout=compact&theme=radical&hide_border=true" /></a> 
     <p align="center">
   <a href="https://github.com/M7mmed-Sayed/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sayed's streak" src="https://github-readme-streak-stats.herokuapp.com?user=M7mmed-Sayed&theme=radical&hide_border=true"/>
   </a>
 </p>
+
+
+
 </div>
 
 
