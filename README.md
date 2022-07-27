@@ -8,7 +8,7 @@ Welcome to my profile!
 </h3>
      
 <p >
-     <img  align="left" src="./Git.jpeg" alt="Mohamed" width="300px" height="400px">
+   <!--  <img  align="left" src="./Git.jpeg" alt="Mohamed" width="300px" height="430px"> -->
 <a href="https://twitter.com/M7mmed_Sayed"><img alt="Mohamed Sayed | Twitter" width="100px" height="50px" src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/m7mmed-sayed"><img alt="Mohamed Sayed | LinkedIn" width="100px" height="50px"   src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
     <a href="mailto:mohamedsayed1167@gmail.com"><img alt="Mohamed Sayed | GMail" width="100px" height="50px"  src="https://img.shields.io/badge/-Gmail-white?style=flat&amp;logo=gmail&amp;logoColor=E0E0E0&color=a1242c" />
@@ -17,7 +17,7 @@ Welcome to my profile!
   </p>
    <hr/>
 I'm a software developer who is passionate about problem solving , 2X ACPC .
-intern at  <a href="https://www.bld.ai/">bld.ai 2022</a>
+ <br/> intern at  <a href="https://www.bld.ai/">bld.ai 2022</a>
 
 
 ### back End Web Developer!
