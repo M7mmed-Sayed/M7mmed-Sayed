@@ -17,7 +17,7 @@ Welcome to my profile!
   </p>
    <hr/>
 I'm a software developer who is passionate about problem solving , 2X ACPC .
-intern at bld.ai 
+intern at  <a href="https://www.bld.ai/">bld.ai 2022</a>
 
 
 ### back End Web Developer!
