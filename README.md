@@ -16,7 +16,8 @@ Welcome to my profile!
      <a href="https://www.instagram.com/M7mmed_Sayed"><img alt="Mohamed Sayed | Instagram"  width="100px" height="50px" src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
   </p>
    <hr/>
-I'm a software developer who is passionate about problem solving , 2X ACPC 
+I'm a software developer who is passionate about problem solving , 2X ACPC .
+intern at bld.ai 
 
 
 ### back End Web Developer!
