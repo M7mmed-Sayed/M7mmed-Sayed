@@ -23,7 +23,6 @@ I'm a software developer who is passionate about problem-solving, 2X ACPC.
 ### Back End Web Developer!
 - 🔭 I'm a software developer
 - 🌱Some technologies I enjoy learning  include .NET and NodeJS.
-- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ I’m looking to collaborate with people that want to make a change
 - 💬 Ask me about **Problem solving**
     <br/> <br/> <br/> <br/>
