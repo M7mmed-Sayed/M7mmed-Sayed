@@ -12,17 +12,17 @@ Welcome to my profile!
 <a href="https://twitter.com/M7mmed_Sayed"><img alt="Mohamed Sayed | Twitter" width="100px" height="50px" src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/m7mmed-sayed"><img alt="Mohamed Sayed | LinkedIn" width="100px" height="50px"   src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
     <a href="mailto:mohamedsayed1167@gmail.com"><img alt="Mohamed Sayed | GMail" width="100px" height="50px"  src="https://img.shields.io/badge/-Gmail-white?style=flat&amp;logo=gmail&amp;logoColor=E0E0E0&color=a1242c" />
-             <a href="https://drive.google.com/file/d/1VXT_AtlHjLpR6iKGyGZ9luP9J-zf6fCI/view?usp=drive_link"><img src="https://img.shields.io/badge/-Resume-red?style=flat&color=a1242c&logo=adobe-acrobat-reader&logoColor=E0E0E0"  width="100px" height="50px" ></a>
+             <a href="https://drive.google.com/file/d/1yYingZy8J0sEHHc-qeHbCVjzHhoK50_k/view?usp=drive_link"><img src="https://img.shields.io/badge/-Resume-red?style=flat&color=a1242c&logo=adobe-acrobat-reader&logoColor=E0E0E0"  width="100px" height="50px" ></a>
      <a href="https://www.instagram.com/M7mmed_Sayed"><img alt="Mohamed Sayed | Instagram"  width="100px" height="50px" src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
   </p>
    <hr/>
-I'm a software developer who is passionate about problem solving , 2X ACPC .
+I'm a software developer who is passionate about problem-solving, 2X ACPC.
  <br/> intern at  <a href="https://www.bld.ai/">bld.ai 2022</a>
 
 
-### back End Web Developer!
+### Back End Web Developer!
 - 🔭 I'm a software developer
-- 🌱Some technologies I enjoy learning  it include .NET , and NodeJS .
+- 🌱Some technologies I enjoy learning  include .NET and NodeJS.
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ I’m looking to collaborate with people that want to make a change
 - 💬 Ask me about **Problem solving**
