@@ -16,13 +16,12 @@ Welcome to my profile!
      <a href="https://www.instagram.com/M7mmed_Sayed"><img alt="Mohamed Sayed | Instagram"  width="100px" height="50px" src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
   </p>
    <hr/>
-I'm Mohamed Sayed, a passionate software developer . I have a strong background in problem-solving and 2X ACPC.
- <br/> intern at  <a href="https://www.bld.ai/">bld.ai 2022</a>
+I'm Mohamed Sayed, a passionate software developer with a strong background in problem-solving and 2X ACPC.
 
 
 ### Back End Web Developer!
 - 🔭 I'm a software developer
-- 🌱Some technologies I enjoy learning  include .NET and NodeJS.
+- 🌱Some technologies I enjoy learning  include .NET and Django.
 - ⚡ I'm looking to collaborate with like-minded individuals who are passionate about making a positive change in the tech industry.
 - 💬 I'm always up for a chat about problem-solving, coding challenges, or anything tech-related.
     <br/> <br/> <br/> <br/>
